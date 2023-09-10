@@ -9,3 +9,6 @@ Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 
 Activate:
 .venv\Scripts\activate
+
+To run server:
+flask run --debug -p 3000
